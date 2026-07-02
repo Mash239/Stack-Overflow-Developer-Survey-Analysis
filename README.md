@@ -7,7 +7,7 @@ This project analyzes the **Stack Overflow Developer Survey** dataset to identif
 
 The goal is to provide actionable insights for developers, students, recruiters, organizations, and data analysts interested in understanding the evolving software development landscape.
 
-#Important NOTE:  ###To View the Python Notebook and datasets files you first have to click first on the file then (click on View Raw)  to download thr file and view the Code for analysis.
+#Important NOTE:  ###To View the Python Notebook and datasets files you first have to click first on the file then (click on View Raw)  to download the file and view the Code for analysis.
 ---
 
 ## 🎯 Project Objectives
